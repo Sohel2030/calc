@@ -1,0 +1,44 @@
+.rep1{
+	text-align: center;
+    background-color: chartreuse;
+    margin: 19px 0px 68px;
+    font-size: x-large;
+    height: 126px;
+    line-height: 4.5;
+
+}
+
+
+.box{
+	margin: 0 auto;
+	
+	width: calc(100% - 100px); /* calculate */
+	height: calc(100vh - 50px); /* calculate */
+	
+    font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	font-weight: 500;
+	color: white;
+
+    text-align: center;
+    align-items: center;
+}
+.display-1{
+	text-transform: uppercase;
+	font-size: 5rem;
+	font-weight: 300;
+    line-height: 7.5;
+}
+/*one*/
+.sec1{
+	background: linear-gradient(#06beb6, #48b1bf);
+}
+/*two*/
+.sec2{
+	background: linear-gradient(#eb3349, #f45c43);
+}
+/*three*/
+.sec3{
+	background: linear-gradient(#614385, #516395);
+}
+
